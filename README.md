@@ -1,4 +1,5 @@
 # AI Customer Support Ticket Management & Triage System
+URL: https://zesty-salamander-a3314c.netlify.app
 
 An end-to-end full-stack web application designed for BTech Computer Science placement vivas and technical rounds. Features automated NLP ticket classification, priority scoring, sentiment analysis, role-based dashboards, MySQL relational schema, and technical interview preparation.
 
